@@ -3,8 +3,12 @@
 **A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling**
 
 **Author:** Wen-Lung Feng  
-**Status:** Independent research manuscript; speculative theoretical proposal  
-**Date:** October 25, 2026
+**Manuscript date:** October 25, 2026  
+**Status:** Independent research manuscript; speculative theoretical proposal
+
+[**Read or download the full manuscript (PDF)**](./On_the_Redundancy_of_Continuous_Spacetime_Geometry.pdf)
+
+---
 
 ## Overview
 
@@ -18,7 +22,7 @@ The manuscript questions whether continuous geometric spacetime must be treated 
 
 These are conjectural proposals. Establishing their physical validity would require rigorous mathematical formulation, recovery of established results, and testable predictions.
 
-## Research questions
+## Research Questions
 
 - Can a discrete causal model describe microscopic dynamics without assuming an external continuous time parameter?
 - Under what conditions could macroscopic time and familiar spacetime geometry emerge from such a model?
@@ -27,7 +31,9 @@ These are conjectural proposals. Establishing their physical validity would requ
 
 ## Manuscript
 
-The PDF manuscript will be added to this repository as a separate file.
+The complete manuscript is available as a PDF:
+
+**[Download the full paper](./On_the_Redundancy_of_Continuous_Spacetime_Geometry.pdf)**
 
 ## Citation
 
