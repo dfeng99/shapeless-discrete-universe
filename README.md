@@ -37,7 +37,7 @@ The complete manuscript is available as a PDF:
 
 ## Citation
 
-Feng, Wen-Lung. *On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling*. Independent research manuscript, October 25, 2026.
+Feng, W.-L. (2026). On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling. Zenodo. https://doi.org/10.5281/zenodo.23685626
 
 ## Feedback
 
