@@ -42,12 +42,16 @@ Feng, Wen-Lung. *On the Redundancy of Continuous Spacetime Geometry: A Shapeless
 ## Feedback
 
 Critical feedback, mathematical scrutiny, and suggestions for possible empirical tests are welcome. The manuscript is a work in progress and should be evaluated as a hypothesis rather than as a confirmed replacement for existing physical theories.
-Copyright © 2026 Wen-Lung Feng. All rights reserved.
+
 
 ## Licensing Policy
 
-Copyright © 2026 Wen-Lung Feng. All rights reserved.
+Copyright © 2026 Wen-Lung Feng. All rights reserved, except for the permissions expressly granted below.
 
-This work is made publicly available for reading and scholarly reference. No license is granted for reproduction, redistribution, adaptation, or commercial reuse beyond permissions provided by applicable law.
+This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
 
-For permissions beyond those rights, please contact the author.
+You may share this work for non-commercial purposes, provided that appropriate credit is given, a link to the license is included, and the work is not modified or adapted for redistribution.
+
+No permission for commercial use or distribution of adapted versions is granted under this license. Uses beyond the scope of this license may require separate permission from the author, subject to applicable law.
+
+License details: https://creativecommons.org/licenses/by-nc-nd/4.0/
