@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research manuscript, please cite the work identified below."
+title: "On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling"
+authors:
+  - family-names: "Feng"
+    given-names: "Wen-Lung"
+doi: "10.5281/zenodo.23685626"
+url: "https://github.com/dfeng99/shapeless-discrete-universe"
+preferred-citation:
+  type: article
+  title: "On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling"
+  authors:
+    - family-names: "Feng"
+      given-names: "Wen-Lung"
+  doi: "10.5281/zenodo.23685626"
+  year: 2026
