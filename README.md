@@ -30,8 +30,8 @@ These are conjectural proposals. Establishing their physical validity would requ
 - Is there a precise, physically meaningful mapping between the proposed transitions and Shimura-variety orbit structures?
 
 ## Update History:
-  v1.0.0 initial version.
-  v1.1.0 SageMath sample codes added as Appendix A,B.
+  - v1.0.0 initial version.
+  - v1.1.0 SageMath sample codes added as Appendix A,B.
   
 ## Manuscript
 
@@ -41,7 +41,9 @@ The complete manuscript is available as a PDF:
 
 ## Citation
 
-Feng, W.-L. (2026). On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling. Zenodo. https://doi.org/10.5281/zenodo.23685626
+Feng, W.-L. (2026). On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling. Zenodo.
+- v1.0.0 https://doi.org/10.5281/zenodo.23685626
+- v1.1.0 https://doi.org/10.5281/zenodo.24007199
 
 ## Feedback
 
