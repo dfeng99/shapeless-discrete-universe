@@ -3,7 +3,7 @@
 **A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling**
 
 **Author:** Wen-Lung Feng  
-**Manuscript date:** October 25, 2026  
+**Manuscript date:** Nov. 6, 2026  
 **Status:** Independent research manuscript; speculative theoretical proposal
 
 [**Read or download the full manuscript (PDF)**](./On_the_Redundancy_of_Continuous_Spacetime_Geometry.pdf)
@@ -29,6 +29,10 @@ These are conjectural proposals. Establishing their physical validity would requ
 - Can the proposed information-resistance formulation be made mathematically consistent with established gravitational physics?
 - Is there a precise, physically meaningful mapping between the proposed transitions and Shimura-variety orbit structures?
 
+## Update History:
+  v1.0.0 initial version.
+  v1.1.0 SageMath sample codes added as Appendix A,B.
+  
 ## Manuscript
 
 The complete manuscript is available as a PDF:
