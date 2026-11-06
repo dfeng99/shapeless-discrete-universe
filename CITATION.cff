@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use or discuss this research manuscript, please cite the work identified below."
 title: "On the Redundancy of Continuous Spacetime Geometry: A Shapeless Model Based on Discrete Planckian Causal Ticks and Shimura Variety Orbit Tunneling"
+version: 1.1.0
+date-released: 2026-11-06
 authors:
   - family-names: "Feng"
     given-names: "Wen-Lung"
