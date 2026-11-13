@@ -16,6 +16,9 @@ This manuscript explores the hypothesis that continuous spacetime geometry may b
 
 The paper is intended to present a research hypothesis and invite critical examination. Its claims should not be read as established physics or as experimentally verified results.
 
+For further exploration of this model’s reinterpretation of special relativity, please refer to Part II, the sequel to this paper: 
+Discrete, Shapeless & Timeless Information Universe Model: Relativity as Algebraic Pointer Projections — Special Relativity Alignments [https://doi.org/10.5281/zenodo.24149586](https://doi.org/10.5281/zenodo.24149586).
+
 ## Abstract
 
 The manuscript questions whether continuous geometric spacetime must be treated as ontologically fundamental. It proposes replacing a continuous microscopic time background with discrete causal iterations related to the Planck length and the speed of light, and reframes gravity through an information-resistance matrix governed by an action principle. It further proposes exploring gravitational escape as a possible form of non-continuous modular-orbit transition in a high-dimensional algebraic setting.
